@@ -30,7 +30,764 @@ W𝚑𝚎𝚛𝚎 𝚝𝚘 𝚆𝚊𝚝𝚌𝚑 **Moana 2** 𝚕𝚊𝚝𝚎𝚜
 
 **Moana 2** box office collection
 
-===========
+<div class="content active" id="summary" bis_skin_checked="1">
+<h2>Synopsis</h2><p>Moana and Maui are reunited after three years for an expansive new voyage alongside a crew of unlikely seafarers. After receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she’s ever faced. 
+</p><h2>Metrics</h2><p>
+</p><center><table id="movie_ratings">
+<tbody><tr class="heading"></tr></tbody></table>
+</center><table>
+<tbody><tr><td><b>Opening&nbsp;Weekend:</b></td><td>$139,787,385 (31.0% of total gross)</td></tr>
+<tr><td><b>Legs:</b></td><td>3.23 (domestic box office/biggest weekend)</td></tr>
+<tr><td><b>Domestic Share:</b></td><td>43.9% (domestic box office/worldwide)</td></tr>
+<tr><td><b>Production&nbsp;Budget:</b></td><td>$150,000,000 (worldwide box office is 6.8 times production budget)</td></tr>
+<tr><td><b>Theater counts:</b></td><td>4,200 opening theaters/4,200 max. theaters, 7.5 weeks average run per theater</td></tr>
+<tr>
+<td><b>Infl. Adj. Dom. BO</b></td>
+<td>$450,857,706</td>
+</tr>
+</tbody></table>
+	
+
+<h3 id="not1" style="text-align: center;border-bottom: none;margin: 24px auto 4px auto;">Latest Ranking on Cumulative Box Office Lists</h3>
+<div id="page_filling_chart" bis_skin_checked="1">
+<center>
+<table>
+<tbody><tr><th>Record</th><th>Rank</th><th>Amount</th></tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/cumulative/all-time">All Time Domestic Box Office</a></td>
+<td align="right">30</td>
+<td align="right">$450,857,706</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/international/all-movies/cumulative/all-time">All Time International Box Office</a></td>
+<td align="right">83</td>
+<td align="right">$575,980,052</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/worldwide/all-movies/cumulative/all-time">All Time Worldwide Box Office</a></td>
+<td align="right">49</td>
+<td align="right">$1,026,837,758</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/production-methods/digital-animation">All Time Domestic Box Office for Digital Animation Movies</a></td>
+<td align="right">6</td>
+<td align="right">$450,857,706</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/international/all-movies/production-methods/digital-animation">All Time International Box Office for Digital Animation Movies</a></td>
+<td align="right">17</td>
+<td align="right">$575,980,052</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/worldwide/all-movies/production-methods/digital-animation">All Time Worldwide Box Office for Digital Animation Movies</a></td>
+<td align="right">10</td>
+<td align="right">$1,026,837,758</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/theatrical-distributors/walt-disney">All Time Domestic Box Office for Walt Disney Movies</a></td>
+<td align="right">18</td>
+<td align="right">$450,857,706</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/international/all-movies/theatrical-distributors/walt-disney">All Time International Box Office for Walt Disney Movies</a></td>
+<td align="right">29</td>
+<td align="right">$575,980,052</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/worldwide/all-movies/theatrical-distributors/walt-disney">All Time Worldwide Box Office for Walt Disney Movies</a></td>
+<td align="right">25</td>
+<td align="right">$1,026,837,758</td>
+</tr>
+</tbody></table>
+<p>See the <a href="#box-office" class=" inactive">Box Office</a> tab (Domestic) and <a href="#international" class=" inactive">International</a> tab (International and Worldwide) for more Cumulative Box Office Records.
+</p></center>
+</div>
+<br>
+
+
+
+
+<h2>Movie Details</h2>
+<table>
+<tbody><tr><td><b>Domestic Releases:</b></td>
+<td>November 27th, 2024 (Wide) by <a href="/market/distributor/Walt-Disney">Walt Disney</a><br>November 27th, 2024 (IMAX) by <a href="/market/distributor/Walt-Disney">Walt Disney</a></td></tr>
+<tr><td><b>International Releases:</b></td>
+<td>November 27th, 2024 (Wide) (<a href="/movie/Moana-2-(2024)/Belgium#tab=summary">Belgium</a>)
+<br>November 27th, 2024 (Wide), released as <i>Odvážná Vaiana 2</i> (<a href="/movie/Moana-2-(2024)/Czech-Republic#tab=summary">Czech Republic</a>)
+<br>November 27th, 2024 (Wide), released as <i>Vaiana 2</i> (<a href="/movie/Moana-2-(2024)/France#tab=summary">France</a>)
+<br>November 27th, 2024 (Wide) (<a href="/movie/Moana-2-(2024)/Indonesia#tab=summary">Indonesia</a>)
+<br>November 27th, 2024 (Wide), released as <i>Vaiana 2</i> (<a href="/movie/Moana-2-(2024)/Netherlands#tab=summary">Netherlands</a>)
+<br><a href="#international" class=" inactive">... Show all releases</a>
+</td></tr>
+<tr><td><b>MPAA&nbsp;Rating:</b></td>
+<td><a href="/market/mpaa-rating/PG-(US)">PG</a> for action/peril.<br>(Rating bulletin 2855 (cert #55105), 10/9/2024)</td></tr>
+<tr><td><b>Running Time:</b></td>
+<td>100 minutes</td></tr>
+<tr><td><b>Franchise:</b></td>
+<td><a href="/movies/franchise/Moana">Moana</a></td></tr>
+<tr><td><b>Comparisons:</b></td>
+<td><a href="/movies/comparisons/All-Time-Top-Grossing-Films">All-Time Top-Grossing Films</a><br><a href="/movies/custom-comparisons/Moana-2-(2024)/Garfield-Movie-The-(2024)">vs. The Garfield Movie</a><br><a href="/movies/custom-comparisons/Moana-2-(2024)">Create your own comparison chart…</a></td></tr>
+<tr><td><b>Keywords:</b></td>
+<td><a href="/movies/keyword/Family-Adventure">Family Adventure</a>, <a href="/movies/keyword/On-a-Boat">On a Boat</a>, <a href="/movies/keyword/Gods-and-Goddesses">Gods and Goddesses</a>, <a href="/movies/keyword/Family-Musical">Family Musical</a>, <a href="/movies/keyword/Musical-Adventure">Musical-Adventure</a></td></tr>
+<tr><td><b>Source:</b></td><td><a href="/market/source/Original-Screenplay">Original Screenplay</a></td></tr>
+<tr><td><b>Genre:</b></td><td><a href="/market/genre/Adventure">Adventure</a></td></tr>
+<tr><td><b>Production&nbsp;Method:</b></td><td><a href="/market/production-method/Digital-Animation">Digital Animation</a></td></tr>
+<tr><td><b>Creative&nbsp;Type:</b></td><td><a href="/market/creative-type/Kids-Fiction">Kids Fiction</a></td></tr>
+<tr><td><b>Production/Financing Companies:</b></td>
+<td><a href="/movies/production-company/Walt-Disney-Animation-Studios">Walt Disney Animation Studios</a></td></tr>
+<tr><td><b>Production Countries:</b></td>
+<td><a href="/United-States/movies">United States</a></td></tr>
+<tr><td><b>Languages:</b></td>
+<td><a href="/language/English/movies">English</a></td></tr>
+</tbody></table>
+
+<h3 id="not1" style="text-align: center;border-bottom: none;margin: 24px auto 4px auto;">Ranking on other Records and Milestones</h3>
+<div id="page_filling_chart" bis_skin_checked="1">
+<center>
+<table>
+<tbody><tr><th>Record</th><th>Rank</th><th>Amount</th><th>Chart<br>Date</th><th>Days In<br>Release</th></tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/9th-wednesday">Biggest 9th Wednesday</a></td>
+<td align="right">92</td>
+<td align="right">$287,515</td>
+<td>Jan 29, 2025</td>
+<td align="right">64</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/9th-tuesday">Biggest 9th Tuesday</a></td>
+<td align="right">78</td>
+<td align="right">$387,809</td>
+<td>Jan 28, 2025</td>
+<td align="right">63</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-450m">Fastest to $450m</a></td>
+<td align="right">26</td>
+<td align="right">$450,182,382</td>
+<td>Jan 27, 2025</td>
+<td align="right">62</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/9th-sunday">Biggest 9th Sunday</a></td>
+<td align="right">62</td>
+<td align="right">$1,204,216</td>
+<td>Jan 26, 2025</td>
+<td align="right">61</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/9th">Biggest Domestic 9th Weekend</a></td>
+<td align="right">95</td>
+<td align="right">$4,198,012</td>
+<td>Jan 24, 2025</td>
+<td align="right">61</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/9th-saturday">Biggest 9th Saturday</a></td>
+<td align="right">44</td>
+<td align="right">$2,120,786</td>
+<td>Jan 25, 2025</td>
+<td align="right">60</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/9th-friday">Biggest 9th Friday</a></td>
+<td align="right">88</td>
+<td align="right">$873,010</td>
+<td>Jan 24, 2025</td>
+<td align="right">59</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/8th-tuesday">Biggest 8th Tuesday</a></td>
+<td align="right">71</td>
+<td align="right">$586,278</td>
+<td>Jan 21, 2025</td>
+<td align="right">56</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/8th-monday">Biggest 8th Monday</a></td>
+<td align="right">13</td>
+<td align="right">$1,779,603</td>
+<td>Jan 20, 2025</td>
+<td align="right">55</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/8th-sunday">Biggest 8th Sunday</a></td>
+<td align="right">26</td>
+<td align="right">$2,148,859</td>
+<td>Jan 19, 2025</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/8th">Biggest Domestic 8th Weekend</a></td>
+<td align="right">74</td>
+<td align="right">$5,994,786</td>
+<td>Jan 17, 2025</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies/martin-luther-king/201">Martin Luther King (All Movies, 3-Day)</a></td>
+<td align="right">241</td>
+<td align="right">$5,994,786</td>
+<td>Jan 17, 2025</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies-infl-adj/martin-luther-king/301">Martin Luther King (All Movies, 3-Day, Inflation Adjusted)</a></td>
+<td align="right">384</td>
+<td align="right">$5,994,781</td>
+<td>Jan 17, 2025</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-4-day-all-movies/martin-luther-king/101">Martin Luther King (All Movies, 4-Day, Fri-Mon)</a></td>
+<td align="right">179</td>
+<td align="right">$7,774,389</td>
+<td>Jan 17, 2025</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-4-day-all-movies-infl-adj/martin-luther-king/201">Martin Luther King (All Movies, 4-Day, Fri-Mon, Inflation Adjusted)</a></td>
+<td align="right">247</td>
+<td align="right">$7,774,381</td>
+<td>Jan 17, 2025</td>
+<td align="right">54</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/8th-saturday">Biggest 8th Saturday</a></td>
+<td align="right">47</td>
+<td align="right">$2,649,452</td>
+<td>Jan 18, 2025</td>
+<td align="right">53</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/8th-friday">Biggest 8th Friday</a></td>
+<td align="right">91</td>
+<td align="right">$1,196,475</td>
+<td>Jan 17, 2025</td>
+<td align="right">52</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/7th-sunday">Biggest 7th Sunday</a></td>
+<td align="right">62</td>
+<td align="right">$2,106,216</td>
+<td>Jan 12, 2025</td>
+<td align="right">47</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/7th-saturday">Biggest 7th Saturday</a></td>
+<td align="right">60</td>
+<td align="right">$3,152,025</td>
+<td>Jan 11, 2025</td>
+<td align="right">46</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/6th-sunday">Biggest 6th Sunday</a></td>
+<td align="right">47</td>
+<td align="right">$3,075,603</td>
+<td>Jan 5, 2025</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/6th">Biggest Domestic 6th Weekend</a></td>
+<td align="right">35</td>
+<td align="right">$12,449,197</td>
+<td>Jan 3, 2025</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies/new-years-day/101">New Year's Day (All Movies, 3-Day)</a></td>
+<td align="right">103</td>
+<td align="right">$12,449,197</td>
+<td>Jan 3, 2025</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies-infl-adj/new-years-day/201">New Year's Day (All Movies, 3-Day, Inflation Adjusted)</a></td>
+<td align="right">259</td>
+<td align="right">$12,449,197</td>
+<td>Jan 3, 2025</td>
+<td align="right">40</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/6th-saturday">Biggest 6th Saturday</a></td>
+<td align="right">33</td>
+<td align="right">$5,124,749</td>
+<td>Jan 4, 2025</td>
+<td align="right">39</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/6th-friday">Biggest 6th Friday</a></td>
+<td align="right">16</td>
+<td align="right">$4,248,845</td>
+<td>Jan 3, 2025</td>
+<td align="right">38</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-thursday">Biggest 5th Thursday</a></td>
+<td align="right">9</td>
+<td align="right">$3,597,520</td>
+<td>Jan 2, 2025</td>
+<td align="right">37</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-wednesday">Biggest 5th Wednesday</a></td>
+<td align="right">3</td>
+<td align="right">$5,140,474</td>
+<td>Jan 1, 2025</td>
+<td align="right">36</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-tuesday">Biggest 5th Tuesday</a></td>
+<td align="right">7</td>
+<td align="right">$4,008,806</td>
+<td>Dec 31, 2024</td>
+<td align="right">35</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-monday">Biggest 5th Monday</a></td>
+<td align="right">11</td>
+<td align="right">$4,701,403</td>
+<td>Dec 30, 2024</td>
+<td align="right">34</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-400m">Fastest to $400m</a></td>
+<td align="right">26</td>
+<td align="right">$400,008,683</td>
+<td>Dec 30, 2024</td>
+<td align="right">34</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-sunday">Biggest 5th Sunday</a></td>
+<td align="right">18</td>
+<td align="right">$5,830,637</td>
+<td>Dec 29, 2024</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/5th">Biggest Domestic 5th Weekend</a></td>
+<td align="right">18</td>
+<td align="right">$18,901,855</td>
+<td>Dec 27, 2024</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies/christmas">Christmas (All Movies, 3-Day)</a></td>
+<td align="right">65</td>
+<td align="right">$18,901,855</td>
+<td>Dec 27, 2024</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td><a rel="nofollow" href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies-infl-adj/christmas/101">Christmas (All Movies, 3-Day, Inflation Adjusted)</a></td>
+<td align="right">164</td>
+<td align="right">$18,901,855</td>
+<td>Dec 27, 2024</td>
+<td align="right">33</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-saturday">Biggest 5th Saturday</a></td>
+<td align="right">31</td>
+<td align="right">$6,632,501</td>
+<td>Dec 28, 2024</td>
+<td align="right">32</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/5th-friday">Biggest 5th Friday</a></td>
+<td align="right">9</td>
+<td align="right">$6,438,717</td>
+<td>Dec 27, 2024</td>
+<td align="right">31</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/4th-thursday">Biggest 4th Thursday</a></td>
+<td align="right">2</td>
+<td align="right">$5,814,872</td>
+<td>Dec 26, 2024</td>
+<td align="right">30</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/4th-wednesday">Biggest 4th Wednesday</a></td>
+<td align="right">6</td>
+<td align="right">$4,257,256</td>
+<td>Dec 25, 2024</td>
+<td align="right">29</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/4th-tuesday">Biggest 4th Tuesday</a></td>
+<td align="right">37</td>
+<td align="right">$3,016,172</td>
+<td>Dec 24, 2024</td>
+<td align="right">28</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/4th-monday">Biggest 4th Monday</a></td>
+<td align="right">30</td>
+<td align="right">$4,144,548</td>
+<td>Dec 23, 2024</td>
+<td align="right">27</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-350m">Fastest to $350m</a></td>
+<td align="right">36</td>
+<td align="right">$354,476,525</td>
+<td>Dec 20, 2024</td>
+<td align="right">25</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/3rd-sunday">Biggest 3rd Sunday</a></td>
+<td align="right">75</td>
+<td align="right">$8,381,276</td>
+<td>Dec 15, 2024</td>
+<td align="right">19</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/3rd">Biggest Domestic 3rd Weekend</a></td>
+<td align="right">95</td>
+<td align="right">$26,499,368</td>
+<td>Dec 13, 2024</td>
+<td align="right">19</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/3rd-saturday">Biggest 3rd Saturday</a></td>
+<td align="right">68</td>
+<td align="right">$12,115,500</td>
+<td>Dec 14, 2024</td>
+<td align="right">18</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-300m">Fastest to $300m</a></td>
+<td align="right">28</td>
+<td align="right">$301,860,091</td>
+<td>Dec 9, 2024</td>
+<td align="right">13</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/2nd-sunday">Biggest 2nd Sunday</a></td>
+<td align="right">54</td>
+<td align="right">$16,469,653</td>
+<td>Dec 8, 2024</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/2nd">Biggest Domestic 2nd Weekend</a></td>
+<td align="right">71</td>
+<td align="right">$51,287,053</td>
+<td>Dec 6, 2024</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-month/december">Biggest Domestic December Weekend</a></td>
+<td align="right">30</td>
+<td align="right">$51,287,053</td>
+<td>Dec 6, 2024</td>
+<td align="right">12</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/2nd-saturday">Biggest 2nd Saturday</a></td>
+<td align="right">48</td>
+<td align="right">$23,134,944</td>
+<td>Dec 7, 2024</td>
+<td align="right">11</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-250m">Fastest to $250m</a></td>
+<td align="right">36</td>
+<td align="right">$259,721,469</td>
+<td>Dec 6, 2024</td>
+<td align="right">10</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/1st-sunday">Biggest 1st Sunday</a></td>
+<td align="right">39</td>
+<td align="right">$34,821,470</td>
+<td>Dec 1, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-month/december">Biggest Domestic December Day</a></td>
+<td align="right">27</td>
+<td align="right">$34,821,470</td>
+<td>Dec 1, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/sunday">Biggest Domestic Sunday</a></td>
+<td align="right">44</td>
+<td align="right">$34,821,470</td>
+<td>Dec 1, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-month/november">Biggest Domestic November Weekend</a></td>
+<td align="right">5</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/opening">Biggest Domestic Opening Weekend</a></td>
+<td align="right">38</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-genre/adventure">Top Adventure Weekend Domestic</a></td>
+<td align="right">13</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-production-method/digital-animation">Top Digital Animation Weekend Domestic</a></td>
+<td align="right">4</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-creative-type/kids-fiction">Top Kids Fiction Weekend Domestic</a></td>
+<td align="right">5</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-source/original-screenplay">Top Original Screenplay Weekend Domestic</a></td>
+<td align="right">9</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-mpaa-rating/pg-(us)">Top PG Weekend Domestic</a></td>
+<td align="right">6</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/sequel">Biggest Domestic Sequel Weekend</a></td>
+<td align="right">31</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-weekend-by-theatrical-distributor/walt-disney">Top Walt Disney Weekend Domestic</a></td>
+<td align="right">24</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/any">Biggest Domestic Weekend</a></td>
+<td align="right">40</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-200m">Fastest to $200m</a></td>
+<td align="right">15</td>
+<td align="right">$225,441,826</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies/thanksgiving">Thanksgiving (All Movies, 3-Day)</a></td>
+<td align="right">1</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-3-day-all-movies-infl-adj/thanksgiving">Thanksgiving (All Movies, 3-Day, Inflation Adjusted)</a></td>
+<td align="right">1</td>
+<td align="right">$139,787,371</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-5-day-all-movies/thanksgiving">Thanksgiving (All Movies, 5-Day)</a></td>
+<td align="right">1</td>
+<td align="right">$225,441,826</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-3-day-opening-weekend/thanksgiving">Thanksgiving (Opening, 3-Day)</a></td>
+<td align="right">1</td>
+<td align="right">$139,787,385</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-3-day-opening-weekend-infl-adj/thanksgiving">Thanksgiving (Opening, 3-Day, Inflation Adjusted)</a></td>
+<td align="right">1</td>
+<td align="right">$139,787,371</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-5-day-opening-weekend/thanksgiving">Thanksgiving (Opening, 5-Day)</a></td>
+<td align="right">1</td>
+<td align="right">$225,441,826</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/holiday-5-day-opening-weekend-infl-adj/thanksgiving">Thanksgiving (Opening, 5-Day, Inflation Adjusted)</a></td>
+<td align="right">1</td>
+<td align="right">$225,441,815</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/weekend/high-theater-average-released-in-2024">Top 2024 Theater Average</a></td>
+<td align="right">14</td>
+<td align="right">$33,283</td>
+<td>Nov 29, 2024</td>
+<td align="right">5</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/1st-saturday">Biggest 1st Saturday</a></td>
+<td align="right">25</td>
+<td align="right">$50,604,078</td>
+<td>Nov 30, 2024</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/saturday">Biggest Domestic Saturday</a></td>
+<td align="right">27</td>
+<td align="right">$50,604,078</td>
+<td>Nov 30, 2024</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-150m">Fastest to $150m</a></td>
+<td align="right">30</td>
+<td align="right">$190,620,356</td>
+<td>Nov 29, 2024</td>
+<td align="right">4</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/1st-friday">Biggest 1st Friday</a></td>
+<td align="right">45</td>
+<td align="right">$54,361,837</td>
+<td>Nov 29, 2024</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/friday">Biggest Domestic Friday</a></td>
+<td align="right">45</td>
+<td align="right">$54,361,837</td>
+<td>Nov 29, 2024</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-100m">Fastest to $100m</a></td>
+<td align="right">40</td>
+<td align="right">$140,016,278</td>
+<td>Nov 29, 2024</td>
+<td align="right">3</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/thursday">Biggest Domestic Thursday</a></td>
+<td align="right">8</td>
+<td align="right">$27,784,598</td>
+<td>Nov 28, 2024</td>
+<td align="right">2</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-genre/adventure">Top Adventure Day Domestic</a></td>
+<td align="right">18</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-production-method/digital-animation">Top Digital Animation Day Domestic</a></td>
+<td align="right">4</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-creative-type/kids-fiction">Top Kids Fiction Day Domestic</a></td>
+<td align="right">6</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-source/original-screenplay">Top Original Screenplay Day Domestic</a></td>
+<td align="right">12</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-mpaa-rating/pg-(us)">Top PG Day Domestic</a></td>
+<td align="right">9</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/sequel">Biggest Domestic Sequel Day</a></td>
+<td align="right">48</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-theatrical-distributor/walt-disney">Top Walt Disney Day Domestic</a></td>
+<td align="right">38</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/biggest-day-by-month/november">Biggest Domestic November Day</a></td>
+<td align="right">7</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/day/any">Biggest Domestic Day</a></td>
+<td align="right">62</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/best-performance-by-day-of-the-week/wednesday">Biggest Domestic Wednesday</a></td>
+<td align="right">4</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/fastest/fastest-to-50m">Fastest to $50m</a></td>
+<td align="right">42</td>
+<td align="right">$57,869,843</td>
+<td>Nov 27, 2024</td>
+<td align="right">1</td>
+</tr>
+<tr>
+<td><a href="/box-office-records/domestic/all-movies/previews/any">Biggest Previews</a></td>
+<td align="right">54</td>
+<td align="right">$13,800,000</td>
+<td>Nov 26, 2024</td>
+<td align="right">0</td>
+</tr>
+</tbody></table>
+</center>
+<br>
+</div>
+</div>
 
 **Moana 2** 𝚛𝚎𝚕𝚎𝚊𝚜𝚎 𝚍𝚊𝚝𝚎
 
